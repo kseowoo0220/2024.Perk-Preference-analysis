@@ -1,7 +1,6 @@
 # ESG Perk Preference Survey Report
 
-This project analyzes contributor preferences for **ESG-related perks** using survey data (N=67).  
-The goal is to identify demographic and experiential factors that influence perk choices and provide insights for designing engagement strategies.
+This project analyzes contributor preferences for **ESG-related perks** using survey data (N=67). The goal is to identify demographic and experiential factors that influence perk choices and provide insights for designing engagement strategies.
 
 ## Overview
 Perk structures can shape contributor motivation and participation in ESG initiatives.  
