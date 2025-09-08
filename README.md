@@ -3,8 +3,7 @@
 This project analyzes contributor preferences for **ESG-related perks** using survey data (N=67). The goal is to identify demographic and experiential factors that influence perk choices and provide insights for designing engagement strategies.
 
 ## Overview
-Perk structures can shape contributor motivation and participation in ESG initiatives.  
-By combining **descriptive statistics**, **chi-square tests**, and **multinomial logistic regression**, this project evaluates how age, gender, education, occupation, income, and ESG program experience relate to perk preferences.
+Perk structures can shape contributor motivation and participation in ESG initiatives. By combining **descriptive statistics**, **chi-square tests**, and **multinomial logistic regression**, this project evaluates how age, gender, education, occupation, income, and ESG program experience relate to perk preferences.
 
 ## Data
 - **Respondents:** 67  
